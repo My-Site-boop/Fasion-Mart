@@ -1,0 +1,27 @@
+#NEWTRENDS{
+			height:200px;
+			width:90%;
+	margin-left: 5%;
+	 display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-gap: 10px;
+	
+	}
+.newtrend-1{
+	box-shadow: 5px 5px 5px;
+}
+
+#NEWTRENDS-a{
+			height:200px;
+			width:85%;
+	   margin-left: 7.5%;
+	   display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-gap: 35px;
+	
+	}
+.newtrend-2{
+	top:-40px;
+    position:relative;
+	box-shadow: 5px 5px 5px;
+		}
